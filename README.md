@@ -1,5 +1,5 @@
 # Data-Visualisation-Project
-#Netflix Movies and Series Data Visualisation.
+Netflix Movies and Series Data Visualisation.
 
 # Introduction
 this project focuses on analysing and visualising Netflix series and movies dataset using Python. <br>
@@ -12,9 +12,9 @@ Data Visualisation is a technique which is used to identify trends and patterns 
 - Matplotlib : Helps in creating graphs and charts. <br>
 
 # Features
--data cleaning.<br>
--analysing movies and series. <br>
--most trending genre among audience. <br>
--content growth over the years. <br>
--most popular series and movies. <br>
--used various types of charts and graphs for better visualisation. <br>
+- data cleaning.<br>
+- analysing movies and series. <br>
+- most trending genre among audience. <br>
+- content growth over the years. <br>
+- most popular series and movies. <br>
+- used various types of charts and graphs for better visualisation. <br>
