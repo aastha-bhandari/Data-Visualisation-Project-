@@ -1,21 +1,27 @@
 # Data-Visualisation-Project
-Netflix Movies and Series Data Visualisation.
 
-# Introduction
-this project focuses on analysing and visualising Netflix series and movies dataset using Python in VS Code with Jupyter notebook support. <br>
-this dataset contains information like title, year, certificate, duration, genre, rating,
-description, stars and votes. <br>
-Data Visualisation is a technique which is used to identify trends and patterns in our dataset using graphs and charts.
+## Project Overview
+this project focuses on analysing and visualising Netflix dataset to understand patterns and trends in movies and TV shows available in the platform.
+
+# Objective
+- explore and understand the dataset.
+- perform data cleaning and preprocessing.
+- analyse trends in movies and TV shows.
+- making conclusions and insights from them.
 
 # Technologies Used
-- Kaggle.com : downloaded dataset csv file from here.
-- Pandas : importing and reading csv files and storing the data in tabular form. <br>
-- Matplotlib : Helps in creating graphs and charts. <br>
+- Kaggle.com - downloaded dataset csv file from here.
+- Python - language used to build this project.
+- Pandas - importing and reading csv files and storing the data in tabular form. 
+- Matplotlib - Helps in creating graphs and charts. 
 
 # Features
-- data cleaning.<br>
-- analysing movies and series. <br>
-- most trending genre among audience. <br>
-- content growth over the years. <br>
-- most popular series and movies. <br>
-- used various types of charts and graphs for better visualisation. <br>
+- data cleaning.
+- analysing movies and series. 
+- most trending genre among audience. 
+- content growth over the years. 
+- most popular series and movies. 
+- used several charts and graphs for better analysing.
+
+## Author
+Aastha Bhandari
